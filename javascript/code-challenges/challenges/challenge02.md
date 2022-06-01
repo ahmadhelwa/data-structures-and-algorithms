@@ -1,4 +1,4 @@
-# Reverse an Array 
+# array-insert-shift
 I have an array , I should return Shift Array 
  and a value to be added in Middle . 
 
