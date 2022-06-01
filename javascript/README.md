@@ -85,4 +85,7 @@ From the `data-structures-and-algorithms/javascript` folder, execute the followi
 Note that when you check your code into GitHub, all of your tests will automatically execute. These results should match your own, and will be found on the  **Actions** tab
 
 
-[SQL](./code-challenges/challenges/challenge01.md)
+[challenge 01](./code-challenges/challenges/challenge01.md)
+
+
+[challenge 02](./code-challenges/challenges/challenge02.md)
