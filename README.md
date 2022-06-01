@@ -24,4 +24,6 @@ To run your tests
 
 ---
 
-[Whiteboard](./javascript/code-challenges/challenges/challenge01.md)
+[Whiteboard 01](./javascript/code-challenges/challenges/challenge01.md)
+
+[Whiteboard 02](./code-challenges/challenges/challenge02.md)
