@@ -28,4 +28,4 @@ To run your tests
 
 [Whiteboard 02](./javascript/code-challenges/challenges/challenge02.md)
 
-[Whiteboard 04](./javascript/code-challenges/binary-search/binary-search.md)
+[Whiteboard 04](./javascript/binary-search/binary-search.md)
