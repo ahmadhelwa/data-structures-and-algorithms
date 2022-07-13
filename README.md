@@ -33,3 +33,5 @@ To run your tests
 [linkedlist 06 07 08 ](./javascript/linked-list/linkedlist.md)
 
 [Stack_Queue](./javascript/CodeChallenge10Stack_Queue/Read.md)
+
+[Stack_Queue pseudo ](./javascript/code-challenge11-stack-queue-pseudo/ch11.md)
