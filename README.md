@@ -37,3 +37,5 @@ To run your tests
 [Stack_Queue pseudo ](./javascript/code-challenge11-stack-queue-pseudo/ch11.md)
 
 [AnimalShelter](./javascript/code-challenge-animal/animal.md)
+
+[brackets](./javascript/code-challenge-brackets/brackets.md)
