@@ -41,3 +41,5 @@ To run your tests
 [brackets](./javascript/code-challenge-brackets/brackets.md)
 
 [Tree 15 16 17 ](./javascript/CodeChallengeClass15_16_17tree/)
+
+[challenge26](./javascript/CodeChallenge26/challenge26.md)
